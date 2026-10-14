@@ -1,0 +1,17 @@
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\bin\Debug\net10.0-windows\constantTime1.exe
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\bin\Debug\net10.0-windows\constantTime1.deps.json
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\bin\Debug\net10.0-windows\constantTime1.runtimeconfig.json
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\bin\Debug\net10.0-windows\constantTime1.dll
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\bin\Debug\net10.0-windows\constantTime1.pdb
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.Form1.resources
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.csproj.GenerateResource.cache
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.AssemblyInfoInputs.cache
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.AssemblyInfo.cs
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.csproj.CoreCompileInputs.cache
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.dll
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\refint\constantTime1.dll
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.pdb
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constantTime1.genruntimeconfig.cache
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\ref\constantTime1.dll
+C:\Users\Alex Rubio\source\repos\constantTime1\constantTime1\obj\Debug\net10.0-windows\constant.52082D96.Up2Date
