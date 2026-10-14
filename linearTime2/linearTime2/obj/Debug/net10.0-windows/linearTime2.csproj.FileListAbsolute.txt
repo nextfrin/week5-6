@@ -1,0 +1,17 @@
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\bin\Debug\net10.0-windows\linearTime2.exe
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\bin\Debug\net10.0-windows\linearTime2.deps.json
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\bin\Debug\net10.0-windows\linearTime2.runtimeconfig.json
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\bin\Debug\net10.0-windows\linearTime2.dll
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\bin\Debug\net10.0-windows\linearTime2.pdb
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.Form1.resources
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.csproj.GenerateResource.cache
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.AssemblyInfoInputs.cache
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.AssemblyInfo.cs
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.csproj.CoreCompileInputs.cache
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.dll
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\refint\linearTime2.dll
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.pdb
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTime2.genruntimeconfig.cache
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\ref\linearTime2.dll
+C:\Users\Alex Rubio\source\repos\linearTime2\linearTime2\obj\Debug\net10.0-windows\linearTi.ABDDF3AF.Up2Date
